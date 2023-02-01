@@ -6,7 +6,7 @@ layout: home
 ---
 
    <address>
-        <p style="text-align: center; font-weight: 500; font-size: 18px"><span style="color: #ff6600;">K</span>onopnickiej.<span
+        <p style="font-weight: 500; font-size: 18px"><span style="color: #ff6600;">K</span>onopnickiej.<span
                 style="color: #ff6600;">Com</span></p>
         <p>
             ul. Surowieckiego 10<br/>
